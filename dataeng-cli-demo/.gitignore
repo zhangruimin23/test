@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-
-# Runtime state and locally generated demonstrations.
-data/*.db
-data/*.json
-data/*.jsonl
-data/processed/
-data-*/
